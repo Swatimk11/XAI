@@ -1,0 +1,5 @@
+{
+  "name": "Breast Cancer AI System",
+  "description": "An AI-powered diagnostic support system for radiologists. Experience Explainable AI with Grad-CAM visualizations to understand how the model interprets mammogram scans.",
+  "requestFramePermissions": []
+}
